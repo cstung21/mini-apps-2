@@ -1,0 +1,19 @@
+button.keypad {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #E0E6EB;
+  background-color: #3D85B8;
+  outline: none;
+
+}
+
+button:hover {
+  background-color: #9FC6E7;
+}
+
+button:active {
+  transform: translateY(4px);
+}
